@@ -11,3 +11,5 @@ $ python server.py
 ```sh
 $ python client.py
 ```
+
+[개발 가이드](https://blog.naver.com/pjt3591oo/222027725523)
